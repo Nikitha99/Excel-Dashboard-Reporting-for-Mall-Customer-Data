@@ -1,5 +1,4 @@
 # Excel-Dashboard-Reporting-for-Mall-Customer-Data
-Excel-Dashboard-Reporting-for-Mall-Customer-Data
 
 This was a problem from Kaggle.
 
